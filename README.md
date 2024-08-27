@@ -1,7 +1,7 @@
 # Exploratory-Data-Analysis-on-Brain-stroke-Data
 This repository contains the project files for an Exploratory Data Analysis (EDA) conducted on a dataset related to brain stroke occurrences. The analysis aims to uncover patterns, trends, and relationships within the data, providing valuable insights into the factors associated with brain strokes.
 
-#Project Overview:
+# Project Overview:
 The EDA process is organized into the following key steps:
 
 Importing Libraries and Data:
@@ -9,7 +9,7 @@ Importing Libraries and Data:
 Loading essential Python libraries such as Pandas, NumPy, Matplotlib, Seaborn, and others required for data analysis.
 Importing the brain stroke dataset for analysis.
 
-#Exploratory Data Analysis:
+# Exploratory Data Analysis:
 
 Stroke Density by Age: Analyzing the distribution of stroke cases across different age groups.
 Gender Distribution: Understanding the gender distribution within the dataset and its correlation with stroke occurrences.
@@ -33,6 +33,6 @@ DABL Plot:
 
 Utilizing the DABL (Data Analysis Baseline Library) to automatically generate plots that summarize key aspects of the data, aiding in the discovery of potential patterns and relationships.
 
-#Technologies Used:
+# Technologies Used:
 Python: For data manipulation and analysis using libraries like Pandas, NumPy, Matplotlib, Seaborn, and DABL.
 Jupyter Notebook: For organizing the analysis process and visualizing the results.
