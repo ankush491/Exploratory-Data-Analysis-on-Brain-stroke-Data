@@ -24,7 +24,9 @@ Smoking Status: Investigating the smoking habits of patients and their correlati
 Relationship Analysis:
 
 Relationship of Gender & Age: Understanding how gender and age together influence stroke risk.
+
 Relationship of Age & Location: Analyzing how age and the type of residence (rural/urban) relate to stroke cases.
+
 Relationship between Age and Average Glucose Level: Exploring the correlation between age and glucose levels in the context of stroke risk.
 Relationship between Average Glucose Level and BMI: Examining how glucose levels and BMI are related.
 Relationship between Average Glucose Level and Stroke: Investigating how glucose levels may predict stroke occurrences.
@@ -35,4 +37,5 @@ Utilizing the DABL (Data Analysis Baseline Library) to automatically generate pl
 
 # Technologies Used:
 Python: For data manipulation and analysis using libraries like Pandas, NumPy, Matplotlib, Seaborn, and DABL.
+
 Jupyter Notebook: For organizing the analysis process and visualizing the results.
